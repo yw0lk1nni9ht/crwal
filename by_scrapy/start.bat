@@ -1,0 +1,1 @@
+cmd /k "scrapy crawl try"
